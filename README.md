@@ -20,7 +20,7 @@ Despite the Federal Reserve's repeated denials of requests to raise interest rat
 
 
 
-Traditional wisdom holds that dividend-paying, stable firms in the value category, together with gold, are the best inflation hedges. However, the economy has altered so dramatically in recent years that the meaning of "value stock" has shifted as well. Before purchasing for a crisis, investors should think about pricing power and worldwide market reach.Viewed in this context, some of the top inflation-proof stocks to buy now include Apple Inc. (NASDAQ:AAPL), Adobe Inc. (NASDAQ:ADBE), and MercadoLibre, Inc. (NASDAQ:MELI), among others modeled within this project
+Traditional wisdom holds that dividend-paying, stable firms in the value category, together with gold, are the best inflation hedges. However, the economy has altered so dramatically in recent years that the meaning of "value stock" has shifted as well. Before purchasing for a crisis, investors should think about pricing power and worldwide market reach. Viewed in this context, some of the top inflation-proof stocks to buy now include Apple Inc. (NASDAQ: AAPL), Adobe Inc. (NASDAQ: ADBE), and MercadoLibre, Inc. (NASDAQ: MELI), among others modeled within this project
 
 The intent of the timeseries model is to predict the risk and potential return on investment for a small sized portfolio that wishes to diversify itself within times of hyperinflation
 
