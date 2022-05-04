@@ -1,6 +1,6 @@
 # 10 Best Inflation-Proof Stocks
 
-![alt text](/data/brr.png)
+![alt text](Data/brr.png)
 
 ## Summary
 
@@ -8,7 +8,7 @@ In periods of hyperinflation is essential to position your portfolio in assets t
 
 According to the latest figures issued by the US Department of Labor, inflation in the United States reached a three-decade high last month, with prices of consumer goods and services rising by 7% year over year.
 
-![Inflation since 2017](/data/united-states-inflation-cpi.jpg)
+![Inflation since 2017](Data/united-states-inflation-cpi.jpg)
 
 Energy production bottlenecks, supply chain disruptions, and a post-pandemic boost in demand have all contributed to the rise in food, gas, and housing prices. Inflation worries are also weakening pay and job increases that had aided the economy's faster-than-expected recovery from the coronavirus crisis.
 
@@ -64,5 +64,4 @@ NEM - ROI: 65.6% | RMSE: 15.5
 
 SWK - ROI: 57.7% | RMSE: 36.5
 
-![alt text](/data/stocksplot.png)
-
+![alt text](Data/stocksplot.png)
