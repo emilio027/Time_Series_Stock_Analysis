@@ -8,7 +8,7 @@ According to the latest figures issued by the US Department of Labor, inflation 
 
 ###               Current US Inflation
 
-![Inflation since 2017](data/united-states-inflation-cpi.jpg)
+![Inflation since 2017](Data/united-states-inflation-cpi.jpg)
 
 Energy production bottlenecks, supply chain disruptions, and a post-pandemic boost in demand have contributed to the rise in food, gas, and housing prices. Inflation worries are also weakening pay and job increases that had aided the economy's faster-than-expected recovery from the coronavirus crisis.
 
@@ -63,4 +63,4 @@ NEM - ROI: 65.6% | RMSE: 15.5
 
 SWK - ROI: 57.7% | RMSE: 36.5
 
-![alt text](data/stocksplot.png)
+![alt text](Data/stocksplot.png)
