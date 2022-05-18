@@ -49,6 +49,8 @@ Mercadolibre Inc. - MELI
 
 ## Results
 
+Root Mean Square Error (RMSE) is the standard deviation of the residuals (prediction errors). Residuals are a measure of how far from the regression line data points are; RMSE is a measure of how spread out these residuals are. In other words, it tells you how concentrated the data is around the line of best fit.
+
 After training a Prophet model, the top-performing stocks with the most significant ROI and lowest RMSE were the following:
 
 AAPL - ROI: 47.4% | RMSE: 33.6
