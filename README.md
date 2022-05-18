@@ -1,56 +1,55 @@
-# 10 Best Inflation-Proof Stocks
+# Time Series Model of Stocks During Hyperinflation
 
 ![alt text](Data/brr.png)
 
 ## Summary
 
-In periods of hyperinflation is essential to position your portfolio in assets that are "inflation-proof"
-
 According to the latest figures issued by the US Department of Labor, inflation in the United States reached a three-decade high last month, with prices of consumer goods and services rising by 7% year over year.
 
-![Inflation since 2017](Data/united-states-inflation-cpi.jpg)
+###               Current US Inflation
 
-Energy production bottlenecks, supply chain disruptions, and a post-pandemic boost in demand have all contributed to the rise in food, gas, and housing prices. Inflation worries are also weakening pay and job increases that had aided the economy's faster-than-expected recovery from the coronavirus crisis.
+![Inflation since 2017](data/united-states-inflation-cpi.jpg)
+
+Energy production bottlenecks, supply chain disruptions, and a post-pandemic boost in demand have contributed to the rise in food, gas, and housing prices. Inflation worries are also weakening pay and job increases that had aided the economy's faster-than-expected recovery from the coronavirus crisis.
 
 ## Business Problem
 
-Despite the Federal Reserve's repeated denials of requests to raise interest rates, referring to inflation fears as "transitory," the political repercussions of rising prices may eventually force the government to act. The stock market has responded gingerly to the news, with the benchmark S&amp;P 500 index not dropping immediately. Morgan Stanley, on the other hand, anticipates that if nothing changes, the index might fall by as much as 20% in the following months. In the current environment, investors are rushing to protect their growth-oriented portfolios against danger.
+Despite the Federal Reserve's repeated denials of requests to raise interest rates, referring to inflation fears as "transitory," the political repercussions of rising prices may eventually force the government to act. The stock market has responded gingerly to the news, with the benchmark S&P 500 index not dropping immediately. On the other hand, Morgan Stanley anticipates that if nothing changes, the index might fall by as much as 20% in the following months. Investors are rushing to protect their growth-oriented portfolios against danger in the current environment.
 
 
 
 
-Traditional wisdom holds that dividend-paying, stable firms in the value category, together with gold, are the best inflation hedges. However, the economy has altered so dramatically in recent years that the meaning of "value stock" has shifted as well. Before purchasing for a crisis, investors should think about pricing power and worldwide market reach. Viewed in this context, some of the top inflation-proof stocks to buy now include Apple Inc. (NASDAQ: AAPL), Adobe Inc. (NASDAQ: ADBE), and MercadoLibre, Inc. (NASDAQ: MELI), among others modeled within this project
+Traditional wisdom holds that dividend-paying, stable firms in the value category and gold are the best inflation hedges. However, the economy has altered so dramatically in recent years that the meaning of "value stock" has also shifted. Before purchasing for a crisis, investors should think about pricing power and worldwide market reach. Viewed in this context, some of the top inflation-proof stocks to buy now include Apple Inc. (NASDAQ: AAPL), Adobe Inc. (NASDAQ: ADBE), and MercadoLibre, Inc. (NASDAQ: MELI), among others modeled within this project.
 
-The intent of the timeseries model is to predict the risk and potential return on investment for a small sized portfolio that wishes to diversify itself within times of hyperinflation
+The time series model intends to predict the risk and potential return on investment for a small-sized portfolio that wishes to diversify itself during times of hyperinflation.
 
 ## Data
 
-The stocks analyzed and modeled using facebook's fbprophet are the following:
+The stocks analyzed and modeled using facebook's Prophet algorithm are the following:
 
-AAPL
+Apple Inc. - AAPL
 
-SWK
+Stanley Black & Decker, Inc. - SWK
 
-NEM
+Newmont Corp. - NEM
 
-EPAM
+EPAM Systems Inc. - EPAM
 
-APTV
+Aptiv PLC - APTV
 
-ADBE
+Adobe Inc. ADBE
 
-FRT
+Federal Realty Investment Trust - FRT
 
-MO
+Altria Group Inc. - MO
 
-TTD
+Trade Desk Inc. - TTD
 
-MELI
-
+Mercadolibre Inc. - MELI
 
 ## Results
 
-After traing a fbprophet model, the top performing stocks with the greatest ROI and lowest RMSE where the following:
+After training a Prophet model, the top-performing stocks with the most significant ROI and lowest RMSE were the following:
 
 AAPL - ROI: 47.4% | RMSE: 33.6
 
@@ -64,4 +63,4 @@ NEM - ROI: 65.6% | RMSE: 15.5
 
 SWK - ROI: 57.7% | RMSE: 36.5
 
-![alt text](Data/stocksplot.png)
+![alt text](data/stocksplot.png)
